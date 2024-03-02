@@ -2,7 +2,7 @@
 I'm a passionate Backend Developer with a knack for creating efficient, scalable, and robust systems. With a strong foundation in Python, SQL, and a variety of data processing frameworks and tools, I strive to leverage my skills to build data-driven applications and services.
 
 🔧 **Technical Skills:**
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, HTML, CSS, JavaScript
 - **Databases:** PostgreSQL, MySQL, Snowflake
 - **Big Data Tools:** PySpark, Spark, Flink
 - **Workflow Management:** Airflow
