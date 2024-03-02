@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhijith</h1>
-<h3 align="center">A passionate Backend Developer with a knack for creating efficient, scalable, and robust systems. With a strong foundation in Python, SQL, and a variety of data processing frameworks and tools, I strive to leverage my skills to build data-driven applications and services. 🔧 **Technical Skills:** - **Languages:** Python, SQL - **Databases:** PostgreSQL, MySQL, Snowflake - **Big Data Tools:** PySpark, Spark, Flink - **Workflow Management:** Airflow - **Cloud Services:** AWS - **Streaming Platforms:** Kafka - **Data Modeling:** dbt - **Containerization:** Docker - **Version Control:** Git - **BI Tools:** Looker</h3>
+I'm a passionate Backend Developer with a knack for creating efficient, scalable, and robust systems. With a strong foundation in Python, SQL, and a variety of data processing frameworks and tools, I strive to leverage my skills to build data-driven applications and services.
+
+🔧 **Technical Skills:**
+- **Languages:** Python, SQL
+- **Databases:** PostgreSQL, MySQL, Snowflake
+- **Big Data Tools:** PySpark, Spark, Flink
+- **Workflow Management:** Airflow
+- **Cloud Services:** AWS
+- **Streaming Platforms:** Kafka
+- **Data Modeling:** dbt
+- **Containerization:** Docker
+- **Version Control:** Git
+- **BI Tools:** Looker
 
 - 🌱 I’m constantly learning **and adapting to new technologies to stay at the forefront of the latest trends in backend development. Check out my repositories to see what I've been working on!**
 
