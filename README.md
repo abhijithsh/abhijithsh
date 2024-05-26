@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhijith</h1>
-I'm a passionate Backend Developer with a knack for creating efficient, scalable, and robust systems. With a strong foundation in Python, SQL, and a variety of data processing frameworks and tools, I strive to leverage my skills to build data-driven applications and services.
+I'm a passionate Backend Developer with a knack for creating efficient, scalable, and robust systems. With a strong foundation in Python, SQL, flutter and a variety of data processing frameworks and tools, I strive to leverage my skills to build data-driven applications and services.
 
 🔧 **Technical Skills:**
-- **Languages:** Python, SQL, HTML, CSS, JavaScript
+- **Languages:** Python, SQL, HTML, CSS, JavaScript, Dart
 - **Databases:** PostgreSQL, MySQL, Snowflake
 - **Big Data Tools:** PySpark, Spark, Flink
 - **Workflow Management:** Airflow
